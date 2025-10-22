@@ -1,0 +1,30 @@
+# =========================
+# Python 基础忽略项
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+app.py
+# 虚拟环境
+.venv/
+env/
+venv/
+
+# 编译 / 构建产物
+build/
+*.egg-info/
+*.egg
+*.spec
+
+
+*.manifest
+*.spec
+*.dll
+*.so
+*.dylib
+
+
+.vscode/
+
+avatar.png

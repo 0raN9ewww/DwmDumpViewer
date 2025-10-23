@@ -5,12 +5,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-app.py
 # 虚拟环境
 .venv/
 env/
 venv/
-
+dist/
+*.exe
 # 编译 / 构建产物
 build/
 *.egg-info/
@@ -24,7 +24,4 @@ build/
 *.so
 *.dylib
 
-
 .vscode/
-
-avatar.png
